@@ -1,6 +1,6 @@
 # Charge-Problem
 
-Solving Chargenet Problem using diffrent approachaes.
+Solving Chargenet Problem using diffrent approaches.
 
 ## Charge-Net
 
